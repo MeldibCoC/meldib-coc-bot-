@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "dependencies": {
+    "discord.js": "file:node_modules/discord.js",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "0.0.6"
+  },
+  "version": ""
+}
